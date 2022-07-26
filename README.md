@@ -41,7 +41,7 @@ public class AboutMe {
 [linkedin]: https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163/
 <br>
 
-#### Rede Sociais!
+#### Social Networks!
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
