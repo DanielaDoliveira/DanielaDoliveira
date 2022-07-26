@@ -5,9 +5,13 @@ My name is Daniela. I'm computer scientist and currently I'm studying software e
 <img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```c#
-public class AboutMe {
- public string  name = "Daniela F. D'Oliveira";
- public string skills = "Unity Engine, React JS ,C#, JavaScript";
+namespace Github
+{
+   class AboutMe
+  {
+    public string name = "Daniela F. D'Oliveira";
+    public string skills = "Unity Engine, React JS ,C#, JavaScript";
+  }
 }
 ```
 
