@@ -1,5 +1,5 @@
 ### Hi there! 👋
-My name is Daniela. I'm computer scientist and currently I'm studying software engineering graduate studies. I love develop new softwares and learn other technologies. On my github you encounter projects that I am/was develop/developed and 'tutorials' of short projects with detailed readme that I made to share my learnship.
+My name is Daniela. I'm computer scientist. I love develop new softwares and learn other technologies. On my github you encounter projects that I am/was develop/developed and 'tutorials' of short projects with detailed readme that I made to share my learnship.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
