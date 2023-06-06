@@ -39,7 +39,7 @@ namespace Github
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielaDoliveira&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://danieladoliveira.netlify.app/
+[website]: https://danieladoliveira.webnode.page
 [youtube]: https://www.youtube.com/channel/UCpemkoezMG_wI5i_-Iv1A6w
 [instagram]: https://www.instagram.com/dan_doliv/
 [linkedin]: https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163/
