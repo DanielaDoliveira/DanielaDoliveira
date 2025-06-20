@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I'm **Daniela**, a **Game Developer** passionate about creating meaningful interactive experiences. While game development is my primary focus, I also have solid experience with software development, backend, frontend, and automation.
+I'm **Daniela**, a **Game Developer** passionate about creating meaningful interactive experiences. While game development is my primary focus, I also have solid experience with software development, backend and frontend.
 
-🚀 I'm currently focused on mastering **C# deeply**, both for game development and as a versatile tool for backend systems, automation, and software architecture.
+🚀 I'm currently focused on mastering **C# deeply**, both for game development and as a versatile tool for backend systems and software architecture.
 
 I love building clean, scalable, and sustainable systems — whether they're games, tools, or apps.
 
@@ -56,9 +56,9 @@ I love building clean, scalable, and sustainable systems — whether they're gam
 Olá! 👋  
 
 Sou a **Daniela**, uma **Desenvolvedora de Jogos** apaixonada por criar experiências interativas com propósito.  
-O desenvolvimento de jogos é meu foco principal, mas também possuo sólida experiência em desenvolvimento de software, backend, frontend e automação.
+O desenvolvimento de jogos é meu foco principal, mas também possuo sólida experiência em desenvolvimento de software, backend e frontend.
 
-🚀 Atualmente estou focada em dominar **C# de forma completa**, tanto para desenvolvimento de jogos quanto como uma linguagem poderosa para backend, automação e arquitetura de software.
+🚀 Atualmente estou focada em dominar **C# de forma completa**, tanto para desenvolvimento de jogos quanto como uma linguagem poderosa para backend e arquitetura de software.
 
 Gosto de construir sistemas limpos, escaláveis e sustentáveis — sejam jogos, ferramentas ou aplicações.
 
