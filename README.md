@@ -1,54 +1,106 @@
-### Hi there! 👋
-My name is Daniela. I'm computer scientist. I love develop new softwares and learn other technologies. On my github you encounter projects that I am/was develop/developed and 'tutorials' of short projects with detailed readme that I made to share my learnship.
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+# Hi there! 👋
 
-<img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+I'm **Daniela**, a **Game Developer** passionate about creating meaningful interactive experiences. While game development is my primary focus, I also have solid experience with software development, backend, frontend, and automation.
 
-```c#
-namespace Github
-{
-   class AboutMe
-  {
-    public string name = "Daniela F. D'Oliveira";
-    public string skills = "Unity Engine, React JS ,C#, JavaScript";
-  }
-}
-```
+🚀 I'm currently focused on mastering **C# deeply**, both for game development and as a versatile tool for backend systems, automation, and software architecture.
 
-## **Linguagens e Ferramentas:**  
+I love building clean, scalable, and sustainable systems — whether they're games, tools, or apps.
 
-<code><img height="30" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/38117217/181047022-f95c4beb-3056-403b-920f-d740df4d8be6.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+---
 
+## 🕹️ Main Focus
+- 🎯 **Game Development with Unity (C#)**
+- 🎯 Systems, AI, gameplay mechanics, and architecture for games
+- 🎯 Mastering **C#** fully, beyond just games
+- 🎯 Clean Code, Software Architecture, Design Patterns
+- 🎯 Growing as a game developer and software engineer
 
+---
 
-## **GitHub Estatísticas**
+## 🛠️ Tech Stack & Tools
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaDoliveira&theme=dracula&hide_langs_below=1" />
-</a>
+- **Languages:** C# (main), JavaScript, TypeScript, Python (basics)
+- **Game Development:** Unity Engine (C#)
+- **Web Development:** ASP.NET, HTML, CSS, JavaScript
+- **Frontend:** React (learning deeper), basic Next.js
+- **Tools:** Git, GitHub, Visual Studio, VS Code, Figma
+- **Methodologies:** Clean Code, SOLID Principles, Software Architecture, Lean, Kanban
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielaDoliveira&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+---
 
-[website]: https://danieladoliveira.webnode.page
-[youtube]: https://www.youtube.com/channel/UCpemkoezMG_wI5i_-Iv1A6w
-[instagram]: https://www.instagram.com/dan_doliv/
-[linkedin]: https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163/
-<br>
+## 📊 GitHub Stats
 
-#### Social Networks!
+![Daniela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielaDOliveira&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaDOliveira&layout=compact&theme=radical)
 
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+---
 
+## 🌐 Connect with me
+
+[![Website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.danieladoliveira.info/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
+
+---
+
+## ✍️ Quote I Live By
+> "Code is not just about making things work — it's about making things work beautifully, clearly, and sustainably."
+
+---
+
+---
+
+## 🇧🇷 Versão em Português
+
+Olá! 👋  
+
+Sou a **Daniela**, uma **Desenvolvedora de Jogos** apaixonada por criar experiências interativas com propósito.  
+O desenvolvimento de jogos é meu foco principal, mas também possuo sólida experiência em desenvolvimento de software, backend, frontend e automação.
+
+🚀 Atualmente estou focada em dominar **C# de forma completa**, tanto para desenvolvimento de jogos quanto como uma linguagem poderosa para backend, automação e arquitetura de software.
+
+Gosto de construir sistemas limpos, escaláveis e sustentáveis — sejam jogos, ferramentas ou aplicações.
+
+---
+
+## 🕹️ Foco Principal
+- 🎯 **Game Development com Unity (C#)**
+- 🎯 Desenvolvimento de sistemas, IA, mecânicas e arquitetura para jogos
+- 🎯 Dominar **C# profundamente**, além dos jogos
+- 🎯 Clean Code, Arquitetura de Software, Design Patterns
+- 🎯 Evoluir como Game Developer e Software Engineer
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** C# (principal), JavaScript, TypeScript, Python (básico)
+- **Game Development:** Unity Engine (C#)
+- **Web Development:** ASP.NET, HTML, CSS, JavaScript
+- **Frontend:** React (aprofundando), básico de Next.js
+- **Ferramentas:** Git, GitHub, Visual Studio, VS Code, Figma
+- **Metodologias:** Clean Code, Princípios SOLID, Arquitetura de Software, Lean, Kanban
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Daniela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielaDOliveira&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaDOliveira&layout=compact&theme=radical)
+
+---
+
+## 🌐 Onde me encontrar
+
+[![Website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.danieladoliveira.info/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
+
+---
+
+## ✍️ Citação que me inspira
+> "Codar não é só fazer funcionar — é fazer funcionar de forma bonita, clara e sustentável."
+
+---
