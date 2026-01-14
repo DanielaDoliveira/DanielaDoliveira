@@ -28,12 +28,7 @@ I love building clean, scalable, and sustainable systems — whether they're gam
 
 ---
 
-## 📊 GitHub Stats
 
-![Daniela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielaDOliveira&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaDOliveira&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with me
 
