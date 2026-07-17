@@ -17,7 +17,7 @@ Frontend|Backend|Game Engines|DevOps| Deploy | Database
 
 <br/>
 
-### Deep in Lost City
+### Deep'in Lost City
 
 > A solo, end-to-end ownership exercise across engineering and product, deliberately run under fixed time, scope, and budget (the Iron Triangle). Applied POCO architecture and the Single Responsibility Principle to keep the code clean under deadline pressure, solved critical WebGL issues (scene freezing, audio leaks, costly Gaussian Blur), and tracked every major call in a living Decision Log to enable conscious pivots.
 
